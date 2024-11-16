@@ -57,7 +57,7 @@
 
 ![넷플릭스 에너지드링크_naver_news_cloud](https://github.com/user-attachments/assets/69a39d89-05e3-4a7d-aa5d-6e87d064f016)
 
-#### **블로그**
+#### **2. 블로그**
 
 **핫식스 에너지드링크**
 
