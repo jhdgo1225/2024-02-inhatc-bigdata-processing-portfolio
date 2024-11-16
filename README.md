@@ -35,18 +35,34 @@
 
 핫식스 에너지드링크
 
+![핫식스 에너지드링크_naver_news_cloud](https://github.com/user-attachments/assets/941134ce-1816-4b28-aada-1b8698ae4590)
+
 몬스터 에너지드링크
+
+![몬스터 에너지드링크_naver_news_cloud](https://github.com/user-attachments/assets/967761cb-8fe1-4eb5-a965-d3a24071ede7)
 
 레드불 에너지드링크
 
+![레드불 에너지드링크_naver_news_cloud](https://github.com/user-attachments/assets/ed84d239-9d5d-4b0f-8ad8-dd78ad226ec0)
+
 넷플릭스 에너지드링크
+
+![넷플릭스 에너지드링크_naver_news_cloud](https://github.com/user-attachments/assets/69a39d89-05e3-4a7d-aa5d-6e87d064f016)
 
 ###### 블로그
 
 핫식스 에너지드링크
 
+![핫식스 에너지드링크_naver_blog_cloud](https://github.com/user-attachments/assets/400d9b51-f9e4-4c34-ab83-5207afd84e6f)
+
 몬스터 에너지드링크
+
+![몬스터 에너지드링크_naver_blog_cloud](https://github.com/user-attachments/assets/61c01fd1-f579-4b4c-993f-012f8879cd2f)
 
 레드불 에너지드링크
 
+![레드불 에너지드링크_naver_blog_cloud](https://github.com/user-attachments/assets/9eafda28-3dac-4fba-8cec-72797b153d12)
+
 넷플릭스 에너지드링크
+
+![넷플릭스 에너지드링크_naver_blog_cloud](https://github.com/user-attachments/assets/e2adc3de-d191-4ed3-b86b-a1b7f1c391fc)
