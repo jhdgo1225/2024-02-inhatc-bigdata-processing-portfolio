@@ -43,7 +43,7 @@
 
 **핫식스 에너지드링크**
 
-![핫식스 에너지드링크_naver_news_cloud](https://github.com/user-attachments/assets/941134ce-1816-4b28-aada-1b8698ae4590)
+![핫식스 에너지드링크_naver_news_cloud](https://github.com/user-attachments/assets/cc9ac621-a29a-4e4f-8fdf-3719255bf2da)
 
 **몬스터 에너지드링크**
 
@@ -61,7 +61,7 @@
 
 **핫식스 에너지드링크**
 
-![핫식스 에너지드링크_naver_blog_cloud](https://github.com/user-attachments/assets/400d9b51-f9e4-4c34-ab83-5207afd84e6f)
+![핫식스 에너지드링크_naver_blog_cloud](https://github.com/user-attachments/assets/def5bc5e-2909-4648-97d2-3be8777966ae)
 
 **몬스터 에너지드링크**
 
@@ -74,3 +74,11 @@
 **넷플릭스 에너지드링크**
 
 ![넷플릭스 에너지드링크_naver_blog_cloud](https://github.com/user-attachments/assets/e2adc3de-d191-4ed3-b86b-a1b7f1c391fc)
+
+### 결론
+
+- 각 제품별 Wordcloud에서 글씨 크기가 가장 큰 키워드는 제품명이다. 두 번째로 큰 키워드는 에너지드링크다.
+- 핫식스, 몬스터, 레드불 제품은 네이버 뉴스와 네이버 블로그 간의 키워드 차이점은 분명하지 않다.
+- 넷플릭스 제품만 네이버 뉴스와 네이버 블로그 간의 차이점이 뚜렷하게 나온다. 네이버 블로그를 크롤링 대상으로 설정한 결과는 타 3개의 제품과 비슷하다.
+- 네이버 뉴스를 크롤링 대상으로 설정한 결과는 에너지 드링크와 거리가 먼 키워드들이 등장했다. 영화배우 이름, 넷플릭스 서비스에서 제공하는 미디어 장르 키워드가 뚜렷하게 나와있다.
+- 넷플릭스 에너지드링크는 올해 출시된 제품이기 때문에 해당 제품을 알리는 기사가 적음을 알 수 있다.
